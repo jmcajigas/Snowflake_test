@@ -1,0 +1,1 @@
+SELECT 'Hola desde GitHub' AS Mensaje, CURRENT_TIMESTAMP() AS Hora;
